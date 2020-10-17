@@ -1,15 +1,15 @@
 name:
-  first: Brandon
-  last: Amos
+  first: Pratsinakis
+  last: Manos
 # phone: ~(540)~947~1238
-email: bda@fb.com
+email: std138591@ac.eap.gr
 pdf: /data/cv.pdf
 src: https://github.com/bamos/cv
 url: "bamos.github.io"
 social:
-  github: bamos
-  twitter: brandondamos
-  linkedin: bdamos
+  github: pratsinakis
+  twitter: ---
+  linkedin: Pratsinakis Emmanouil
   google_scholar: d8gdZR4AAAAJ
 # Erdős  number is at most 4.
 # (Brandon Amos -> Layne Watson -> Leroy Kelly -> Zoltán Füredi -> Paul Erdős )
@@ -113,28 +113,26 @@ selected_repos:
   https://github.com/bamos/setGPU
 
 education:
-  - school: Carnegie Mellon University
-    location: Pittsburgh, Pennsylvania
-    degree: Ph.D. in Computer Science
-    dates: Aug 2014 -- May 2019
+  - school: Hellenic Open University
+    location: Athens, Greece
+    degree: MSc, in Pervasive and Mobile Computing Systems
+    dates: Okt 2018 -- .....
     overallGPA: 0.00/0.00
 
-  - school: Carnegie Mellon University
-    location: Pittsburgh, Pennsylvania
-    degree: M.S. in Computer Science
-    dates: Aug 2014 -- May 2016
-    overallGPA: 0.00/0.00
+  - school: TEI of Crete
+    location: Heraklion, Greece
+    degree: B.S. in Mechanical Engineering
+    dates: Feb 2016 -- July 2018
+    overallGPA: 7.85/10.00
+ 
+  - school: TEI of Piraeus
+    location: Piraeus, Greece
+    degree: B.S. in Automation Engineering
+    dates: Okt 2000 -- Feb 2007
+    overallGPA: 6.5/10
 
-  - school: Virginia Tech
-    location: Blacksburg, Virginia
-    degree: B.S. in Computer Science
-    # degree: B.S., Computer Science, Honors Scholar
-    dates: Aug 2011 -- May 2014
-    overallGPA: 3.99/4.00
-    majorGPA: 4.00/4.00
-
-  - school: Northside High School (Roanoke, Virginia)
-    dates: Aug 2007 -- May 2011
+  - school: EPL Agiou Nikolaou Kritis
+    dates: Sep 1997 -- Juny 2000
 
 research:
   - place: Facebook AI
